@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+langchain==0.3.7
+langchain-community==0.3.7
+langserve==0.3.2
+pydantic==2.8.2
+pydantic-core==2.20.1
+pydantic-settings==2.5.2
+tenacity==8.3.0
+packaging==24.1
+
